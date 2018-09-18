@@ -6,3 +6,4 @@ Kişisel gelir gider hesabının yapıldığı bir web uygulaması
     -Jquery
 Kullanılan Dil php
 veri alım gönderimi için ajax kullanıldı
+(yapım aşamasında)
